@@ -17,4 +17,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=siddharth123bansal&icon=0&color=0)](https://visitcount.itsvg.in)
-![image](https://user-images.githubusercontent.com/85054291/235356427-4d06b8cf-5f99-471e-8eab-e8c7facee16b.png)
+![gif](https://user-images.githubusercontent.com/85054291/235356427-4d06b8cf-5f99-471e-8eab-e8c7facee16b.gif)
