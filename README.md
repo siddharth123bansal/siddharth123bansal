@@ -17,3 +17,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=siddharth123bansal&icon=0&color=0)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/siddharth123bansal/siddharth123bansal/blob/output/github-contribution-grid-snake.gif)
