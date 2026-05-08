@@ -66,9 +66,8 @@ I focus on building **production-grade SaaS systems** with strong fundamentals.
 ---
 
 ## 🏆 Contribution Highlights
-
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=siddharth123bansal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=siddharth123bansal&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -82,9 +81,8 @@ I focus on building **production-grade SaaS systems** with strong fundamentals.
 ---
 
 ## 🐍 GitHub Activity Snake
-
 <p align="center">
-  <img src="https://github.com/siddharth123bansal/siddharth123bansal/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/siddharth123bansal/siddharth123bansal/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
