@@ -2,7 +2,7 @@
 <h3 align="center">🚀 SaaS Builder | Full Stack Engineer | Systems Architect</h3>
 
 <p align="center">
-  I build scalable SaaS products, automation platforms, and backend systems that are designed to grow.
+  I build scalable SaaS products, automation platforms, and backend systems designed to grow.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🏗️ What I Build
 
-I focus on building **production-grade SaaS systems** with strong fundamentals.
+I focus on building **production-grade SaaS systems** with strong engineering fundamentals.
 
 ✅ Multi-tenant applications & scalable backend architectures  
 ✅ Workflow automation engines & event-driven systems  
@@ -49,10 +49,22 @@ I focus on building **production-grade SaaS systems** with strong fundamentals.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharth123bansal&theme=tokyonight&hide_border=true" />
+  <img src="https://ghchart.rshah.org/409ba5/siddharth123bansal" alt="Siddharth Bansal's Github chart" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth123bansal&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth123bansal&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
 </p>
 
 <p align="center">
@@ -65,7 +77,8 @@ I focus on building **production-grade SaaS systems** with strong fundamentals.
 
 ---
 
-## 🏆 Contribution Highlights
+## 🏆 Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=siddharth123bansal&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
@@ -81,9 +94,19 @@ I focus on building **production-grade SaaS systems** with strong fundamentals.
 ---
 
 ## 🐍 GitHub Activity Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/siddharth123bansal/siddharth123bansal/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 🤝 Let’s Connect
+
+If you're building something ambitious or want to collaborate on SaaS / automation / backend engineering, let’s connect.
+
+📩 **LinkedIn:** https://linkedin.com/in/siddharth-bansal-945b77201  
+📷 **Instagram:** https://instagram.com/bsiddharth1302  
 
 ---
 
@@ -92,5 +115,5 @@ I focus on building **production-grade SaaS systems** with strong fundamentals.
 </p>
 
 <p align="center">
-  ⭐ If you like what I build, consider following!
+  ⭐ If you like my work, consider following!
 </p>
