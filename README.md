@@ -62,56 +62,87 @@ class Developer:
 
 # ⚡ ACTIVE MODULES
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🧠 Backend Systems
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 Backend Systems
+
 ```bash
 Node.js
 TypeScript
 Fastify
+Express.js
 GraphQL
+Apollo Server
 Microservices
 Distributed Systems
+REST APIs
 Event Architectures
+Authentication Systems
+Queue Processing
+WebSockets
+Scalable Backends
 ```
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙ Infrastructure
+## ⚙ Infrastructure
+
 ```bash
 AWS
 Docker
 Linux
 CI/CD
-Scalable APIs
+NGINX
 Cloud Architecture
+DevOps
 System Design
+Scalable APIs
+Performance Optimization
+Load Balancing
+Server Management
+Monitoring Systems
+Infrastructure Automation
 ```
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🤖 AI / Automation
+<td width="50%" valign="top">
+
+## 🤖 AI / Automation
+
 ```bash
 OCR Pipelines
 AI Agents
 PDF Intelligence
-Reconciliation AI
+AI Reconciliation
 Workflow Automation
+Document Parsing
+Automation Pipelines
+Data Extraction
+AI Integrations
+Prompt Engineering
+Intelligent Processing
+Financial Automation
 ```
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📱 Mobile / Frontend
+## 📱 Mobile / Frontend
+
 ```bash
 Android
 Kotlin
@@ -119,11 +150,21 @@ Flutter
 React
 Next.js
 TailwindCSS
+Responsive UI
+Modern Interfaces
+State Management
+Frontend Architecture
+Cross Platform Apps
+UI/UX Systems
 ```
 
 </td>
+
 </tr>
+
 </table>
+
+</div>
 
 ---
 
