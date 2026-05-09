@@ -1,7 +1,7 @@
 <div align="center">
 
 # Siddharth Bansal
-### System Architect • Full Stack Engineer • ERP Builder • Scalable Infrastructure Enthusiast
+### System Architect • Full Stack Engineer • Mobile Application Dev • Scalable Infrastructure Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems;Designing+Enterprise+Architectures;ERP+%7C+Microservices+%7C+AI+Automation;Backend+Engineering+%7C+Cloud+Infrastructure;Turning+Complexity+Into+Products" />
 
@@ -176,21 +176,11 @@ philosophy:
 
 ---
 
-# 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/siddharth123bansal/siddharth123bansal/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 # 📈 Contribution Metrics
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=siddharth123bansal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=siddharth123bansal&theme=tokyonight&no-frame=true&margin-w=10&row=1)
 
 </div>
 
