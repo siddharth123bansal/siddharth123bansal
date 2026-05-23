@@ -227,16 +227,6 @@ that survive scale, chaos, and time.
 
 ---
 
-# 🐍 ACTIVITY MATRIX
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/siddharth123bansal/siddharth123bansal/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 🏆 ACHIEVEMENTS
 
 <div align="center">
