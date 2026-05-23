@@ -190,7 +190,7 @@ UI/UX Systems
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth123bansal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+
 
 </div>
 
