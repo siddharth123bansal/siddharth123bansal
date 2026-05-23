@@ -79,7 +79,6 @@ Express.js
 GraphQL
 Apollo Server
 Microservices
-Distributed Systems
 REST APIs
 Event Architectures
 Authentication Systems
@@ -105,9 +104,7 @@ DevOps
 System Design
 Scalable APIs
 Performance Optimization
-Load Balancing
 Server Management
-Monitoring Systems
 Infrastructure Automation
 ```
 
@@ -131,7 +128,6 @@ Document Parsing
 Automation Pipelines
 Data Extraction
 AI Integrations
-Prompt Engineering
 Intelligent Processing
 Financial Automation
 ```
@@ -145,7 +141,6 @@ Financial Automation
 ```bash
 Android
 Kotlin
-Flutter
 React
 Next.js
 TailwindCSS
