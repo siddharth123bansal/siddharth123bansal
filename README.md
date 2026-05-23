@@ -172,7 +172,7 @@ UI/UX Systems
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,java,c,cpp,react,nextjs,nodejs,graphql,docker,linux,aws,postgres,mongodb,mysql,redis,firebase,androidstudio,flutter,git&perline=11" />
+<img src="https://skillicons.dev/icons?i=ts,js,kotlin,java,c,cpp,react,nextjs,vite,nodejs,graphql,docker,linux,aws,postgres,mongodb,mysql,redis,firebase,androidstudio,terraform,ansible,git&perline=11" />
 
 </div>
 
