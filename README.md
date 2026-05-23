@@ -11,12 +11,12 @@
 <div align="center">
 
 ```txt
-███████╗██╗██████╗ 
+███████╗██╗██████╗
 ██╔════╝██║██╔══██╗
 ███████╗██║██║  ██║
 ╚════██║██║██║  ██║
 ███████║██║██████╔╝
-╚══════╝╚═╝╚═════╝ 
+╚══════╝╚═╝╚═════╝
 
 > SYSTEMS ENGINEER
 > MICROSERVICES ADDICT
@@ -32,7 +32,7 @@
 
 ```yaml
 class Developer:
-  name: "Siddharth Bansal"
+  name: 'Siddharth Bansal'
 
   role:
     - System Architect
@@ -54,8 +54,7 @@ class Developer:
     - Clean Architecture
     - Automation
 
-  mindset:
-    "If it can be automated, it should be."
+  mindset: 'If it can be automated, it should be.'
 ```
 
 ---
@@ -182,15 +181,11 @@ UI/UX Systems
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddharth123bansal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth123bansal&theme=radical&hide_border=true&background=0D1117"/>
 
 </div>
 
 <div align="center">
-
-
 
 </div>
 
